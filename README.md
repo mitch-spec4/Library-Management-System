@@ -18,7 +18,7 @@ This is a Python-based Library Management System using SQLite3 to manage books, 
 * Clone this repository to your local machine or download the source code as a ZIP file.
 *bash
 * Copy code
-* git clone https://github.com/your-username/library-management-system.git
+* git clone https://github.com/mitch-spec4/library-management-system.git
 
 #### Navigate to the project directory:
 * bash
