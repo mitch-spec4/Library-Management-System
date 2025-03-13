@@ -1,0 +1,9 @@
+This python project has successfuly acquired relationships
+This include :
+            1.Book and Track:
+                          a book can be borrowed by many users and each borrow will be tracked on the tables
+
+The project has also 3 model classes which are :Book, Track, User.
+
+
+  
